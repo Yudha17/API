@@ -12,6 +12,11 @@ This is the localhost JSON API for
                            the reference is ---> https://github.com/typicode/json-server with "Alternative port" keyword
                            
  Fifth Step -> To check if the port already created by copy the url in the Terminal with "Resources" keyword and paste in your browser. Then the json format will appear
+ 
+ 
+ Note : If there is an error while create alternative port try using this reference
+        ---> https://stackoverflow.com/questions/64633727/how-to-fix-running-scripts-is-disabled-on-this-system
+        Or try to browse other reference
                
 
                
