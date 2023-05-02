@@ -12,6 +12,10 @@ This is the localhost JSON API for
                            the reference is ---> https://github.com/typicode/json-server with "Alternative port" keyword
                            
  Fifth Step -> To check if the port already created by copy the url in the Terminal with "Resources" keyword and paste in your browser. Then the json format will appear
+               
+
+               
+                
   
-              It means your json is running in your localhost server
+             
  
